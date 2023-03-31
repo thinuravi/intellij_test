@@ -1,0 +1,3 @@
+util\ApplicationProperties.class
+com\sjr\web\db\DBConnection.class
+com\sjr\web\Test.class
